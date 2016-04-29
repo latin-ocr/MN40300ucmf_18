@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./MN40300ucmf_18_0008.png"; bbox 0 0 2165 3056; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 169 268 1051 586">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 169 268 1051 586">
+     <span class='ocr_line' id='line_1_1' title="bbox 169 268 1051 586; baseline 0.006 -64"><span class='ocrx_word' id='word_1_1' title='bbox 169 268 726 586; x_wconf 80' lang='lat' dir='ltr'><strong>Eiehler‚</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 785 271 1051 532; x_wconf 81' lang='lat' dir='ltr'>Chr</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 170 1146 1041 1841">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 81 1146 1083 1841">
+     <span class='ocr_line' id='line_1_2' title="bbox 170 1146 1041 1406; baseline -0.001 -5.093"><span class='ocrx_word' id='word_1_3' title='bbox 170 1146 1041 1406; x_wconf 78' lang='lat' dir='ltr'>Dissertation</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 170 1581 1003 1841; baseline 0.01 -5"><span class='ocrx_word' id='word_1_4' title='bbox 170 1581 1003 1841; x_wconf 80' lang='lat' dir='ltr'>harduiniaru</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1091 3056">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1091 3056">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1091 3056; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 1091 3056; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 173 2459 1071 2797">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 173 2459 1071 2797">
+     <span class='ocr_line' id='line_1_5' title="bbox 173 2459 1071 2797; baseline -0.004 -78"><span class='ocrx_word' id='word_1_6' title='bbox 173 2459 760 2797; x_wconf 74' lang='lat' dir='ltr'><strong>Leipzig,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 835 2459 1071 2715; x_wconf 78' lang='lat'>173</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
